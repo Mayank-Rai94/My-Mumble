@@ -7,3 +7,8 @@ Installation:
 4.Signup to Agora and create a new project.
 5.Copy your project ID and paste it to APP_ID in room_rtc.js.
 6.Now you are set to go.
+
+Output:
+
+
+![Screenshot (19)](https://github.com/Mayank-Rai94/My-Mumble/assets/143496213/40a5eb5b-54eb-42c2-a277-189daa094254)
